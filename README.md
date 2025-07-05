@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food Store Web Application
 
 This is a simple food store web application where users can browse different sections, add fruits to their cart, update quantities, delete items, and place orders. After placing an order, users receive a sample text receipt.
@@ -20,3 +21,7 @@ Here are some screenshots of the application:
 ### Preview - 02
 ![Cart Page](./assets/images/preview/preview02.gif)
 
+=======
+# food-store
+Responsive online food store with filtering and cart features
+>>>>>>> f90d3079f997f130cb30edd3f93e2ea0093f2beb
